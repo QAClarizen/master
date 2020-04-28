@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea1650b627af9a4f6678551
+type: experiment
+name: Enable Shifting Project Assignment
+flag: EnableShiftingProjectAssignment
+value: false
