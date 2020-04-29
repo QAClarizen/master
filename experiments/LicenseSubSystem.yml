@@ -1,6 +1,0 @@
-# This file was edited by rollout.io
-# URL: https://app.rollout.io/ex/5ea1655d3d4697691be29ac1
-type: experiment
-name: License Sub System
-flag: LicenseSubSystem
-value: true
