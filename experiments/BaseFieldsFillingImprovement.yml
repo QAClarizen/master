@@ -1,6 +1,0 @@
-# This file was edited by rollout.io
-# URL: https://app.rollout.io/ex/5ea164083d4697371be26569
-type: experiment
-name: Base Fields Filling Improvement
-flag: BaseFieldsFillingImprovement
-value: true
