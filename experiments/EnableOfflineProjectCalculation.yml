@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea164c8627af90a74677d7b
+type: experiment
+name: Enable Offline Project Calculation
+flag: EnableOfflineProjectCalculation
+value: false
