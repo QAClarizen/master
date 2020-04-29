@@ -1,6 +1,0 @@
-# This file was edited by rollout.io
-# URL: https://app.rollout.io/ex/5ea16603627af9363667aab4
-type: experiment
-name: Trace Widget Changes
-flag: TraceWidgetChanges
-value: false
