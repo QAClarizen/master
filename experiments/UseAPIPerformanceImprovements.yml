@@ -1,6 +1,0 @@
-# This file was edited by rollout.io
-# URL: https://app.rollout.io/ex/5ea166174b36565b913705c4
-type: experiment
-name: Use API Performance Improvements
-flag: UseAPIPerformanceImprovements
-value: false
