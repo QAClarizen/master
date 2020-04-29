@@ -1,0 +1,15 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea16543627af9299b678eb8
+type: experiment
+name: Grid Frozen Columns
+flag: GridFrozenColumns
+conditions:
+  - group:
+      name: QAUA
+    value: false
+  - group:
+      name:
+        - v6upgrade1 HF46
+        - testrl
+    value: true
+value: true
