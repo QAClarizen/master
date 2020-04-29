@@ -1,6 +1,0 @@
-# This file was edited by rollout.io
-# URL: https://app.rollout.io/ex/5ea16501627af90a5e67846c
-type: experiment
-name: Enable Show Empty Relation
-flag: EnableShowEmptyRelation
-value: false
