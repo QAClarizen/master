@@ -1,7 +1,0 @@
-type: target-group
-name: smsc clone refresh testing 6
-conditions:
-  - operator: in-array
-    property: OrgId
-    operand:
-      - '783469'
