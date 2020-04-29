@@ -1,7 +1,0 @@
-type: target-group
-name: Burda Moden
-conditions:
-  - operator: in-array
-    property: OrgId
-    operand:
-      - '15438'
