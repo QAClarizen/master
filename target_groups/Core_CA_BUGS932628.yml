@@ -1,7 +1,0 @@
-type: target-group
-name: Core_CA_BUGS932628
-conditions:
-  - operator: in-array
-    property: OrgId
-    operand:
-      - '411017'
