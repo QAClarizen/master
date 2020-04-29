@@ -1,6 +1,0 @@
-# This file was edited by rollout.io
-# URL: https://app.rollout.io/ex/5ea165804b36561d2036f4a5
-type: experiment
-name: Log Rest Api Calls
-flag: LogRestApiCalls
-value: false
