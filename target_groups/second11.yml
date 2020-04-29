@@ -1,7 +1,0 @@
-type: target-group
-name: second11
-conditions:
-  - operator: in-array
-    property: OrgId
-    operand:
-      - '787180'
