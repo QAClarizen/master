@@ -1,7 +1,0 @@
-type: target-group
-name: BR_TEST
-conditions:
-  - operator: in-array
-    property: OrgId
-    operand:
-      - '613904'
