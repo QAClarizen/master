@@ -1,7 +1,0 @@
-type: target-group
-name: clone 8
-conditions:
-  - operator: in-array
-    property: OrgId
-    operand:
-      - '769391'
