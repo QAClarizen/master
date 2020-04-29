@@ -1,0 +1,10 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea16518f51eeb727abfc6f9
+type: experiment
+name: Enable User Logins In Reports
+flag: EnableUserLoginsInReports
+conditions:
+  - group:
+      name: Natalia
+    value: true
+value: false
