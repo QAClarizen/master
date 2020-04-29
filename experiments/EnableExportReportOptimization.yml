@@ -1,6 +1,0 @@
-# This file was edited by rollout.io
-# URL: https://app.rollout.io/ex/5ea16497f51eebb2efbfb589
-type: experiment
-name: Enable Export Report Optimization
-flag: EnableExportReportOptimization
-value: true
