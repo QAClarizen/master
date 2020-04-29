@@ -1,7 +1,0 @@
-type: target-group
-name: mphq5wallacoil
-conditions:
-  - operator: in-array
-    property: OrgId
-    operand:
-      - '282996'
