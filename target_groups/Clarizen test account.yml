@@ -1,7 +1,0 @@
-type: target-group
-name: Clarizen test account
-conditions:
-  - operator: in-array
-    property: OrgId
-    operand:
-      - '165415'
