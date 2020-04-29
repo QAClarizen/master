@@ -1,7 +1,0 @@
-type: target-group
-name: hf43testedition
-conditions:
-  - operator: in-array
-    property: OrgId
-    operand:
-      - '196640'
