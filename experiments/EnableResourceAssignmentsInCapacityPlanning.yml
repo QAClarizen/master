@@ -1,0 +1,15 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea164e5627af95969677fa8
+type: experiment
+name: Enable Resource Assignments In Capacity Planning
+flag: EnableResourceAssignmentsInCapacityPlanning
+conditions:
+  - group:
+      name: testrate2
+    value: false
+  - group:
+      name:
+        - Winterfell
+        - Like a Version
+    value: true
+value: false
