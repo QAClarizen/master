@@ -1,6 +1,0 @@
-# This file was edited by rollout.io
-# URL: https://app.rollout.io/ex/5ea165f880b9507e7d348f1b
-type: experiment
-name: Show Storage Quota
-flag: ShowStorageQuota
-value: true
