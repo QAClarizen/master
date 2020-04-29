@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea164e1f51eeb19bfbfc035
+type: experiment
+name: Enable Profile Properties
+flag: EnableProfileProperties
+value: true
