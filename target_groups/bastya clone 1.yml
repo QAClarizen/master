@@ -1,7 +1,0 @@
-type: target-group
-name: bastya clone 1
-conditions:
-  - operator: in-array
-    property: OrgId
-    operand:
-      - '778991'
