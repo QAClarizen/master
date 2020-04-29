@@ -1,7 +1,0 @@
-type: target-group
-name: acc3
-conditions:
-  - operator: in-array
-    property: OrgId
-    operand:
-      - '302430'
