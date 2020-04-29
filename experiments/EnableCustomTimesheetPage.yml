@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea1648f627af91fd76774b3
+type: experiment
+name: Enable Custom Timesheet Page
+flag: EnableCustomTimesheetPage
+value: true
