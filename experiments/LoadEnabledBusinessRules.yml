@@ -1,0 +1,6 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5ea1656f3d4697a1bde2a0b7
+type: experiment
+name: Load Enabled Business Rules
+flag: LoadEnabledBusinessRules
+value: false
