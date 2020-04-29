@@ -1,6 +1,0 @@
-# This file was edited by rollout.io
-# URL: https://app.rollout.io/ex/5ea164163d469740d5e26633
-type: experiment
-name: Box Oem Integration
-flag: BoxOemIntegration
-value: false
