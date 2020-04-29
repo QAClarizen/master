@@ -1,6 +1,0 @@
-# This file was edited by rollout.io
-# URL: https://app.rollout.io/ex/5ea164b7627af95134677afe
-type: experiment
-name: Enable Log Rocket Http Sanitize
-flag: EnableLogRocketHttpSanitize
-value: true
