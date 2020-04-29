@@ -1,5 +1,0 @@
-# This file was edited by rollout.io
-# URL: https://app.rollout.io/ex/5ea1645c627af9660c676e3e
-type: experiment
-flag: Enable Change History
-value: true
