@@ -1,6 +1,0 @@
-# This file was edited by rollout.io
-# URL: https://app.rollout.io/ex/5ea164a6f51eeb4a1ebfb734
-type: experiment
-name: Enable Job Tracker
-flag: EnableJobTracker
-value: false
